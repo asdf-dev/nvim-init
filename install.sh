@@ -278,7 +278,6 @@ main() {
 
   install_or_update_nvim
   install_lazy
-  backup_config
   install_config
   verify
 
